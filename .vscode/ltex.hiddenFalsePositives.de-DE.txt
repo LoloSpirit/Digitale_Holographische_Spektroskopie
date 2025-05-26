@@ -1,0 +1,1 @@
+{"rule":"F_ANSTATT_PH","sentence":"^\\QGrundlagen der Holographie.\\E$"}
